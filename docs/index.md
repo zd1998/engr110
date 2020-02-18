@@ -19,7 +19,9 @@
               label: 'Beehive 1',
               backgroundColor: 'rgb(255, 99, 132)',
               borderColor: 'rgb(255, 99, 132)',
-              data: [240,245,242,240,200,190,190]
+              data: [240,245,242,240,200,190,190],
+              pointRadius: 5,
+              pointHoverRadius: 5
             },
             {
               fill: false,
@@ -27,7 +29,9 @@
               label: 'Beehive 2',
               backgroundColor: 'rgb(132, 99, 255)',
               borderColor: 'rgb(132, 99, 255)',
-              data: [270,265,268,265,263,265,254]
+              data: [270,265,268,265,263,265,254],
+              pointRadius: 5,
+              pointHoverRadius: 5
             }]
           },
     // Configuration options go here
